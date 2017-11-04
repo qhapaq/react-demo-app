@@ -1,13 +1,13 @@
 # react-demo-app
 resto: app demo with reactjs
 
-# Users
+#### Users
 
-| Type        | user          | pass       |
+| Type        | Username      | Pass       |
 | ------------|:-------------:| ----------:|
 | Mozo        | pedro         | admin1234  |
 | Cocinero    | jose          | admin1234  |
 
-# Demo
+#### Demo
 
 [http://pcm.devtorres.net](http://pcm.devtorres.net/)
